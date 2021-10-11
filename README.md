@@ -2,8 +2,9 @@
 A collection of useful links to game development resources
 
 ## Tech
+*Code related magic*
 
-#### UI / UX
+**UI/UX**
 * [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
 
 ## Art
