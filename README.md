@@ -4,7 +4,7 @@ A collection of useful links to game development resources
 ### Legends
 
 - :tv: - Video Resource
-- :information_source: - Learning Resource
+- :mortar_board: - Learning Resource
 
 ## Tech
 _Code related magic_
