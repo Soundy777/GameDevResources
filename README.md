@@ -5,6 +5,7 @@ A collection of useful links to game development resources
 
 - :tv: - Video Resource
 - :mortar_board: - Learning Resource
+- :wrench: - Asset
 
 ## Tech
 _Code related magic_
@@ -13,10 +14,10 @@ _Code related magic_
 - :tv: [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
 
 #### Unity Assets
-* [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
+* :wrench: [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
 
 #### Shaders
-* :information_source: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
+* :mortar_board: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
 
 ## Art
 
