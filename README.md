@@ -1,6 +1,17 @@
 # GameDevResources
 A collection of useful links to game development resources
 
+## Tech
+
+### UI / UX
+* [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
+
+## Art
+
+## Design
+
+## Portals
+
 ## Unity
 ### Assets
 * [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
