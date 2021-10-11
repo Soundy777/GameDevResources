@@ -5,7 +5,7 @@ A collection of useful links to game development resources
 _Code related magic_
 
 #### UI/UX
-- [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
+- :tv: [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
 
 ## Art
 
