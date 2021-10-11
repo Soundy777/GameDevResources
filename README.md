@@ -2,6 +2,9 @@
 A collection of useful links to game development resources
 
 ## Unity
+* []()
+* []()
+* []()
 
 ## Game Juice - Videos
 * [Game Feel For Action Games](https://www.youtube.com/watch?v=UsGuN69g2NI)
@@ -15,8 +18,12 @@ A collection of useful links to game development resources
 * [The Art and Science of Game Feel | How Game Designers Juice Games with Mechanics,Pacing and Effects](https://www.youtube.com/watch?v=EDElfx2qo_M)
 * [Game Feel: Why Your Death Animation Sucks](https://www.youtube.com/watch?v=pmSAG51BybY)
 
-## Game Juice - Assets
-* 
+## Assets
+### Game Feel/Juice
+* [Feel](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
+
+## Art
+* [Making a Game Look AMAZING in 10 minutes!](https://www.youtube.com/watch?v=eDiRnWhqqIY)
 
 ## Other Resource Collections
 * [Ambid's Collection](https://github.com/ambid17/Unity-Articles)
