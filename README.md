@@ -1,17 +1,13 @@
 # GameDevResources
-A collection of useful links to game development resources
+_A collection of useful links to game development resources_
 
 ### Legends
 
-- :tv: - Video Resource
 - :mortar_board: - Learning Resource
 - :wrench: - Asset
 
 ## Tech
 _Code related magic_
-
-#### UI/UX
-- :tv: [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
 
 #### Unity Assets
 * :wrench: [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
@@ -19,60 +15,59 @@ _Code related magic_
 #### Shaders
 * :mortar_board: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
 
-## Art
-
 ## Design
 _All things game design_
 
-#### Game Juice - Tutorials
-* :tv: [Game Feel For Action Games](https://www.youtube.com/watch?v=UsGuN69g2NI)
-* :tv: [How to add JUICE to ANY GAME](https://www.youtube.com/watch?v=-dJnsZrykb0)
-* :tv: [Game Feel and Juice Secrets to make your Game Satisfying to Play](https://www.youtube.com/watch?v=9RwBwLtq2LQ)
-* :tv: [UI/UX Best Practices for Game Developers](https://youtube.com/playlist?list=PLzOZD569v5GvOJV4TM_5tNwejljkBACaS)
-* :tv: [Secrets of Game Feel and Juice](https://www.youtube.com/watch?v=216_5nu4aVQ)
-* :tv: [Juice it or lose it - a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
-* :tv: [How to design with feedback and game feel in mind - Unite Copenhagen](https://www.youtube.com/watch?v=yCKI9T3sSv0)
-* :tv: [The Art of Screenshake - Jan Willem Nijman - Vlambeer](https://www.youtube.com/watch?v=SkgkIXZ_13Y)
-* :tv: [The Art and Science of Game Feel | How Game Designers Juice Games with Mechanics,Pacing and Effects](https://www.youtube.com/watch?v=EDElfx2qo_M)
-* :tv: [Game Feel: Why Your Death Animation Sucks](https://www.youtube.com/watch?v=pmSAG51BybY)
+#### Game Juice
+* :mortar_board: [Game Feel For Action Games](https://www.youtube.com/watch?v=UsGuN69g2NI)
+* :mortar_board: [How to add JUICE to ANY GAME](https://www.youtube.com/watch?v=-dJnsZrykb0)
+* :mortar_board: [Game Feel and Juice Secrets to make your Game Satisfying to Play](https://www.youtube.com/watch?v=9RwBwLtq2LQ)
+* :mortar_board: [Secrets of Game Feel and Juice](https://www.youtube.com/watch?v=216_5nu4aVQ)
+* :mortar_board: [Juice it or lose it - a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+* :mortar_board: [How to design with feedback and game feel in mind - Unite Copenhagen](https://www.youtube.com/watch?v=yCKI9T3sSv0)
+* :mortar_board: [The Art of Screenshake - Jan Willem Nijman - Vlambeer](https://www.youtube.com/watch?v=SkgkIXZ_13Y)
+* :mortar_board: [The Art and Science of Game Feel | How Game Designers Juice Games with Mechanics,Pacing and Effects](https://www.youtube.com/watch?v=EDElfx2qo_M)
+* :mortar_board: [Game Feel: Why Your Death Animation Sucks](https://www.youtube.com/watch?v=pmSAG51BybY)
 
-## Portals
+#### UX
+* :mortar_board: [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
+* :mortar_board: [UI/UX Best Practices for Game Developers](https://youtube.com/playlist?list=PLzOZD569v5GvOJV4TM_5tNwejljkBACaS)
 
-## Art - General
-### Tutorials
+## Art
+_Draw the rest of the owl_
+
+#### Learning Resources
 * [Making a Game Look AMAZING in 10 minutes!](https://www.youtube.com/watch?v=eDiRnWhqqIY)
-
-### Tips & Tricks
 * [Game Art Tricks](http://simonschreibt.de/game-art-tricks/)
 
-### Resources
+#### Collections - Mixed
 * [Kenny's Assets](https://kenney.nl/assets)
 
-## Art - 3D
-### Resources
+#### Collections - 3D
 * [The Everything Library - A Large Collection Of Handmade 3D Models](https://www.davidoreilly.com/library)
 
-## Art - 2D
-### Resources
+#### Collections - 2D
 * [GameIcons.net - Free Icons For Your Games](https://game-icons.net/)
 * [Public Domain Texture Sites](https://docs.google.com/spreadsheets/d/1i8vLBtMDIwJYrpFycgAHBZV1quqaTh7iZB9vvbCohJs/editid=0)
 
-## Art - Pixel Art
-### Tutorials
+#### Pixel Art
 * [Aseprite Tips For Beginners](https://twitter.com/Nootall_/status/1435600476666482689)
 * [Nick N's Quick Tutorials](https://www.patreon.com/NickNuttall)
-* 
 
 ## Audio
-### Tutorials
+_The art of noise_
+
+#### Learning Resources
 * []()
 
-### Resources
+#### Collections
 * [Game Audio Archive GDC](http://sonniss.com/gameaudiogdc)
-* 
 
-## Other Resource Collections
+
+## Must See
+_Don't look away!_
+
+#### Portals
 * [Ambid's Collection](https://github.com/ambid17/Unity-Articles)
 * [Awesome Collection](https://github.com/sindresorhus/awesome)
 * [MagicTools Collection](https://github.com/ellisonleao/magictools)
-* 
