@@ -1,40 +1,41 @@
 # GameDevResources
 A collection of useful links to game development resources
 
+### Legends
+
+- :tv: - Video Resource
+- :information_source: - Learning Resource
+
 ## Tech
 _Code related magic_
 
 #### UI/UX
 - :tv: [Video Game Design And User Experience](https://www.youtube.com/watch?v=1mTI1rjQiOE)
 
+#### Unity Assets
+* [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
+
+#### Shaders
+* :information_source: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
+
 ## Art
 
 ## Design
+_All things game design_
+
+#### Game Juice - Tutorials
+* :tv: [Game Feel For Action Games](https://www.youtube.com/watch?v=UsGuN69g2NI)
+* :tv: [How to add JUICE to ANY GAME](https://www.youtube.com/watch?v=-dJnsZrykb0)
+* :tv: [Game Feel and Juice Secrets to make your Game Satisfying to Play](https://www.youtube.com/watch?v=9RwBwLtq2LQ)
+* :tv: [UI/UX Best Practices for Game Developers](https://youtube.com/playlist?list=PLzOZD569v5GvOJV4TM_5tNwejljkBACaS)
+* :tv: [Secrets of Game Feel and Juice](https://www.youtube.com/watch?v=216_5nu4aVQ)
+* :tv: [Juice it or lose it - a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+* :tv: [How to design with feedback and game feel in mind - Unite Copenhagen](https://www.youtube.com/watch?v=yCKI9T3sSv0)
+* :tv: [The Art of Screenshake - Jan Willem Nijman - Vlambeer](https://www.youtube.com/watch?v=SkgkIXZ_13Y)
+* :tv: [The Art and Science of Game Feel | How Game Designers Juice Games with Mechanics,Pacing and Effects](https://www.youtube.com/watch?v=EDElfx2qo_M)
+* :tv: [Game Feel: Why Your Death Animation Sucks](https://www.youtube.com/watch?v=pmSAG51BybY)
 
 ## Portals
-
-## Unity
-### Assets
-* [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
-
-## Unreal
-
-## Game Design
-### Game Juice - Tutorials
-* [Game Feel For Action Games](https://www.youtube.com/watch?v=UsGuN69g2NI)
-* [How to add JUICE to ANY GAME](https://www.youtube.com/watch?v=-dJnsZrykb0)
-* [Game Feel and Juice Secrets to make your Game Satisfying to Play](https://www.youtube.com/watch?v=9RwBwLtq2LQ)
-* [UI/UX Best Practices for Game Developers](https://youtube.com/playlist?list=PLzOZD569v5GvOJV4TM_5tNwejljkBACaS)
-* [Secrets of Game Feel and Juice](https://www.youtube.com/watch?v=216_5nu4aVQ)
-* [Juice it or lose it - a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
-* [How to design with feedback and game feel in mind - Unite Copenhagen](https://www.youtube.com/watch?v=yCKI9T3sSv0)
-* [The Art of Screenshake - Jan Willem Nijman - Vlambeer](https://www.youtube.com/watch?v=SkgkIXZ_13Y)
-* [The Art and Science of Game Feel | How Game Designers Juice Games with Mechanics,Pacing and Effects](https://www.youtube.com/watch?v=EDElfx2qo_M)
-* [Game Feel: Why Your Death Animation Sucks](https://www.youtube.com/watch?v=pmSAG51BybY)
-
-## Shaders
-### Tutorials
-* [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
 
 ## Art - General
 ### Tutorials
