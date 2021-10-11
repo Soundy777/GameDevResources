@@ -23,8 +23,18 @@ A collection of useful links to game development resources
 * [Feel](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
 
 ## Art
+### Tutorials
 * [Making a Game Look AMAZING in 10 minutes!](https://www.youtube.com/watch?v=eDiRnWhqqIY)
+
+### 3D Assets
+* [The Everything Library - A Large Collection Of Handmade 3D Models](https://www.davidoreilly.com/library)
+
+### 2D Assets
+#### Icons
+* [Free Icons For Your Games](https://game-icons.net/)
 
 ## Other Resource Collections
 * [Ambid's Collection](https://github.com/ambid17/Unity-Articles)
 * [Awesome Collection](https://github.com/sindresorhus/awesome)
+* [MagicTools Collection](https://github.com/ellisonleao/magictools)
+* 
