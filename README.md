@@ -91,10 +91,10 @@ _Draw the rest of the owl_
 _The art of noise_
 
 #### Learning Resources
-* 📁 [Gamesounds.xyz - Royalty Free Music And Sounds For Your Games](https://gamesounds.xyz/)
 
 #### Collections
 * :file_folder: [Game Audio Archive GDC](http://sonniss.com/gameaudiogdc)
+* 📁 [Gamesounds.xyz - Royalty Free Music And Sounds For Your Games](https://gamesounds.xyz/)
 
 ## Computer Science
 _Digital Oddities_
