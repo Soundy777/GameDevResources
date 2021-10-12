@@ -39,6 +39,7 @@ _Code related magic_
 
 #### Learning Resources
 * 🎓 [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
+* 🎓 [Mix And Jam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA)
 
 #### Cheat Sheets/Reference
 * 📊 [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
