@@ -11,12 +11,12 @@ _A collection of useful links to game development resources_
 ## Tech
 _Code related magic_
 
-#### Useful Unity Assets
+#### Unity - Assets
 * 🛠️ [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
 * 🛠️ [All in 1 Sprite Shader](https://assetstore.unity.com/packages/vfx/shaders/all-in-1-sprite-shader-156513)
 * 🔱 [Best Free Unity Assets Categorised Mega List](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 
-#### Useful Unity Repos
+#### Unity - Repos
 * 🛠️ [Clutter - Collection Of Scraps For Rupa (Rapid Unscheduled Prototype Assembly) - Extension Methods, Handy Grabs Around, Debug Drawings](https://bitbucket.org/Taugeshtu/clutter/src/master/)
 * 🛠️ [Simple Finite State Machine For Unity (C](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 * 🛠️ [Klak Is A Collection Of Scripts For Creative Coding With Unity.](https://github.com/keijiro/Klak)
