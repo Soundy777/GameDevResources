@@ -33,6 +33,9 @@ _Code related magic_
 #### Unity - Data Handling
 * 🎓 [Here's How You Should Be Thinking About Data](https://www.youtube.com/watch?v=KH_rXIJlMKU)
 
+#### Unity - Tips/Tricks
+* 🎓 
+
 #### Shaders
 * :mortar_board: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
 * 🎓 [Introduction To The Shader Programming Language](https://learn.jettelly.com/course/unity-shader-bible/usb-chapter-1/preface/)
@@ -66,7 +69,7 @@ _All things game design_
 ## Art
 _Draw the rest of the owl_
 
-#### Learning Resources
+#### Learning Resources - General
 * :mortar_board: [Making a Game Look AMAZING in 10 minutes!](https://www.youtube.com/watch?v=eDiRnWhqqIY)
 * :mortar_board: [Game Art Tricks](http://simonschreibt.de/game-art-tricks/)
 
@@ -80,9 +83,13 @@ _Draw the rest of the owl_
 * :file_folder: [GameIcons.net - Free Icons For Your Games](https://game-icons.net/)
 * :file_folder: [Public Domain Texture Sites](https://docs.google.com/spreadsheets/d/1i8vLBtMDIwJYrpFycgAHBZV1quqaTh7iZB9vvbCohJs/editid=0)
 
-#### Pixel Art
+#### Learning Resources - 2D
+* 🎓 [Elements Of Motion Graphics](https://youtube.com/playlist?list=PLr6VWCdn16F9UH8sLTRf60NEeKYfa8ZQq)
+
+#### Learning Resources - Pixel Art
 * :mortar_board: [Aseprite Tips For Beginners](https://twitter.com/Nootall_/status/1435600476666482689)
 * :mortar_board: [Nick N's Quick Tutorials](https://www.patreon.com/NickNuttall)
+* 🎓 [Pixel Art](https://www.youtube.com/playlist?list=PLr6VWCdn16F8j1TOPERSPVBEjkyMYZHBt)
 
 #### Motion Graphics
 * 🎓 [Blender Live - Creating Scifi Motion Graphics In Blender](https://www.youtube.com/watch?v=XGk7lpYSUI8)
@@ -110,3 +117,7 @@ _Don't look away!_
 * :trident: [Ambid's Collection](https://github.com/ambid17/Unity-Articles)
 * :trident: [Awesome Collection](https://github.com/sindresorhus/awesome)
 * :trident: [MagicTools Collection](https://github.com/ellisonleao/magictools)
+
+#### Video Essayists
+* 🤔 [Eurothug4000](https://www.youtube.com/channel/UCxddeIv7GdHNcVPZI9JvGXQ)
+* 🤔 [Heavyeyed](https://www.youtube.com/c/HeavyEyed/videos)
