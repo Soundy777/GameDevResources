@@ -16,12 +16,18 @@ _Code related magic_
 * 🛠️ [All in 1 Sprite Shader](https://assetstore.unity.com/packages/vfx/shaders/all-in-1-sprite-shader-156513)
 * 🔱 [Best Free Unity Assets Categorised Mega List](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 * 🛠️ [Procedural Toolkit](https://assetstore.unity.com/packages/tools/utilities/procedural-toolkit-16508)
+* 🛠️ [Ui Shapes Kit](https://unitylist.com/p/guw/ui-shapes-kit)
+* 🛠️ [Eazy Sound Manager](https://unitylist.com/p/czh/Eazy-Sound-Manager)
 
 #### Unity - Repos
 * 🛠️ [Clutter - Collection Of Scraps For Rupa (Rapid Unscheduled Prototype Assembly) - Extension Methods, Handy Grabs Around, Debug Drawings](https://bitbucket.org/Taugeshtu/clutter/src/master/)
 * 🛠️ [Simple Finite State Machine For Unity (C](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 * 🛠️ [Klak Is A Collection Of Scripts For Creative Coding With Unity.](https://github.com/keijiro/Klak)
 * 🎮 [Unity Open Project : Chop Chop](https://github.com/UnityTechnologies/open-project-1)
+* 🛠️ [Unity Script Collection](https://opensourcelibs.com/lib/unity-script-collection)
+
+#### Unity - Portals
+* 🔱 [84 Open Source Unity Scripts Software Projects](https://opensourcelibs.com/libs/unity-scripts)
 
 #### Unity - Scriptable Objects
 * 🎓 [How To Create A Simple Finite State Machine For 2D Games Using Unity Scriptable Objects ](https://www.leangroup.com/blog/how-to-create-a-simple-finite-state-machine-for-2d-games-using-unity-scriptable-objects)
@@ -34,17 +40,25 @@ _Code related magic_
 #### Unity - Data Handling
 * 🎓 [Here's How You Should Be Thinking About Data](https://www.youtube.com/watch?v=KH_rXIJlMKU)
 
+#### Unity - Saving/Loading
+* 🎓 [Save & Load In Unity - Manage Your Data](https://www.youtube.com/watch?v=Lt-AiGbHN9g)
+
 #### Unity - Tips/Tricks
 * 🎓 [Unity3d Best Practices (Dated, but useful)](http://www.glenstevens.ca/unity3d-best-practices/)
+* 🎓 [Object Pooling In Unity 2021}(https://thegamedev.guru/unity-cpu-performance/object-pooling/)
 
 #### Shaders
 * :mortar_board: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
 * 🎓 [Introduction To The Shader Programming Language](https://learn.jettelly.com/course/unity-shader-bible/usb-chapter-1/preface/)
+* 🎓 [Volumetric Light Scattering As A Custom Renderer Feature In Urp](https://www.raywenderlich.com/22027819-volumetric-light-scattering-as-a-custom-renderer-feature-in-urp)
 
-#### Learning Resources
+#### Learning Resource Portals
 * 🎓 [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
 * 🎓 [Mix And Jam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA)
 * 🎓 [ Kap Koder ](https://www.youtube.com/channel/UCRqUSuefGa8LHrF6DOOGPPQ)
+* 🎓 [Tarodev](https://www.youtube.com/c/Tarodev/videos)
+* 🎓 [Unity Performance Optimization Blog](https://thegamedev.guru/page/4ist)
+* 🎓 [Unity Ability Tutorials](https://www.youtube.com/playlist?list=PL7-cqsVREuR1PQlq7vHnL6vunebrykt1j)
 
 #### Cheat Sheets/Reference
 * 📊 [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
