@@ -15,6 +15,7 @@ _Code related magic_
 * 🛠️ [Feel - Game Feel/Juice](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
 * 🛠️ [All in 1 Sprite Shader](https://assetstore.unity.com/packages/vfx/shaders/all-in-1-sprite-shader-156513)
 * 🔱 [Best Free Unity Assets Categorised Mega List](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
+* 🛠️ [Procedural Toolkit](https://assetstore.unity.com/packages/tools/utilities/procedural-toolkit-16508)
 
 #### Unity - Repos
 * 🛠️ [Clutter - Collection Of Scraps For Rupa (Rapid Unscheduled Prototype Assembly) - Extension Methods, Handy Grabs Around, Debug Drawings](https://bitbucket.org/Taugeshtu/clutter/src/master/)
@@ -34,7 +35,7 @@ _Code related magic_
 * 🎓 [Here's How You Should Be Thinking About Data](https://www.youtube.com/watch?v=KH_rXIJlMKU)
 
 #### Unity - Tips/Tricks
-* 🎓 
+* 🎓 [Unity3d Best Practices (Dated, but useful)](http://www.glenstevens.ca/unity3d-best-practices/)
 
 #### Shaders
 * :mortar_board: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
@@ -43,6 +44,7 @@ _Code related magic_
 #### Learning Resources
 * 🎓 [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
 * 🎓 [Mix And Jam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA)
+* 🎓 [ Kap Koder ](https://www.youtube.com/channel/UCRqUSuefGa8LHrF6DOOGPPQ)
 
 #### Cheat Sheets/Reference
 * 📊 [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
@@ -85,6 +87,7 @@ _Draw the rest of the owl_
 
 #### Learning Resources - 2D
 * 🎓 [Elements Of Motion Graphics](https://youtube.com/playlist?list=PLr6VWCdn16F9UH8sLTRf60NEeKYfa8ZQq)
+* 🎓 [Linus Boman - Graphic Design Analysis (typo/iconography)](https://www.youtube.com/channel/UCSb-xYOELhIqVr2n9s-b_4w)
 
 #### Learning Resources - Pixel Art
 * :mortar_board: [Aseprite Tips For Beginners](https://twitter.com/Nootall_/status/1435600476666482689)
