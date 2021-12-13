@@ -47,6 +47,9 @@ _Code related magic_
 * 🎓 [Unity3d Best Practices (Dated, but useful)](http://www.glenstevens.ca/unity3d-best-practices/)
 * 🎓 [Object Pooling In Unity 2021}(https://thegamedev.guru/unity-cpu-performance/object-pooling/)
 
+#### Unity - AR
+* 🎓 [Unity AR Foundation](https://learn.unity.com/tutorial/setting-up-ar-foundation)
+
 #### Shaders
 * :mortar_board: [Minions Art Tutorials](https://minionsart.github.io/tutorials/)
 * 🎓 [Introduction To The Shader Programming Language](https://learn.jettelly.com/course/unity-shader-bible/usb-chapter-1/preface/)
