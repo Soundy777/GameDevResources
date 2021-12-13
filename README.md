@@ -45,7 +45,7 @@ _Code related magic_
 
 #### Unity - Tips/Tricks
 * 🎓 [Unity3d Best Practices (Dated, but useful)](http://www.glenstevens.ca/unity3d-best-practices/)
-* 🎓 [Object Pooling In Unity 2021}(https://thegamedev.guru/unity-cpu-performance/object-pooling/)
+* 🎓 [Object Pooling In Unity 2021](https://thegamedev.guru/unity-cpu-performance/object-pooling/)
 
 #### Unity - AR
 * 🎓 [Unity AR Foundation](https://learn.unity.com/tutorial/setting-up-ar-foundation)
