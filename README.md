@@ -25,6 +25,7 @@ _Code related magic_
 * 🛠️ [Klak Is A Collection Of Scripts For Creative Coding With Unity.](https://github.com/keijiro/Klak)
 * 🎮 [Unity Open Project : Chop Chop](https://github.com/UnityTechnologies/open-project-1)
 * 🛠️ [Unity Script Collection](https://opensourcelibs.com/lib/unity-script-collection)
+* 🛠️ [Mathutilities](https://github.com/zalo/MathUtilities)
 
 #### Unity - Portals
 * 🔱 [84 Open Source Unity Scripts Software Projects](https://opensourcelibs.com/libs/unity-scripts)
