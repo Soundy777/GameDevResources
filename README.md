@@ -33,6 +33,7 @@ _Code related magic_
 #### Unity - Scriptable Objects
 * 🎓 [How To Create A Simple Finite State Machine For 2D Games Using Unity Scriptable Objects ](https://www.leangroup.com/blog/how-to-create-a-simple-finite-state-machine-for-2d-games-using-unity-scriptable-objects)
 * 🎓 [Unite Europe 2016 - Overthrowing The Monobehaviour Tyranny In A Glorious Scriptableobject Revolution](https://www.youtube.com/watch?v=VBA1QCoEAX4)
+* 🎓 [Pluggable Ai With Scriptable Objects](https://www.youtube.com/watch?v=cHUXh5biQMg)
 
 #### Unity - Coroutines/Async Await
 * 🎓 [Async-await Instead Of Coroutines In Unity 2017](http://www.stevevermeulen.com/index.php/2017/09/using-async-await-in-unity3d-2017/)
@@ -47,6 +48,7 @@ _Code related magic_
 #### Unity - Tips/Tricks
 * 🎓 [Unity3d Best Practices (Dated, but useful)](http://www.glenstevens.ca/unity3d-best-practices/)
 * 🎓 [Object Pooling In Unity 2021](https://thegamedev.guru/unity-cpu-performance/object-pooling/)
+* 🎓 [Why Animation Curves In Unity Are So Useful](https://www.youtube.com/watch?v=Nc9x0LfvJhI)
 
 #### Unity - AR
 * 🎓 [Unity AR Foundation](https://learn.unity.com/tutorial/setting-up-ar-foundation)
