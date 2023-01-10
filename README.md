@@ -24,7 +24,7 @@ _Code related magic_
 * 🛠️ [Simple Finite State Machine For Unity (C](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 * 🛠️ [Klak Is A Collection Of Scripts For Creative Coding With Unity.](https://github.com/keijiro/Klak)
 * 🎮 [Unity Open Project : Chop Chop](https://github.com/UnityTechnologies/open-project-1)
-* 🛠️ [Unity Script Collection](https://opensourcelibs.com/lib/unity-script-collection)
+* 🛠️ [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)
 * 🛠️ [Mathutilities](https://github.com/zalo/MathUtilities)
 
 #### Unity - Portals
